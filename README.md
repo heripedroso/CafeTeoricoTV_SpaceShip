@@ -68,9 +68,6 @@ The language is Java. There is no extraordinary tools but the Java coding. You s
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 :brazil:<br>
 Colocarei aqui as leituras das quais segui as orientaçãoes para os padrões de codificação. <br>
