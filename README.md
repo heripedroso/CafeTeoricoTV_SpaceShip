@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
-    <img src="images/SpaceShip.gif" alt="Logo" width="80" height="80">
+    <img src="images/SpaceShip.gif" alt="Logo" width="446" height="336">
   </a>
 
   <h3 align="center">Café Teórico TV - SpaceShip</h3>
