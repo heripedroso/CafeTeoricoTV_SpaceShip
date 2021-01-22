@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
-    <img src="images/SpaceShip.gif" alt="Logo" width="446" height="336">
+    <img src="images/SpaceShip.gif" alt="Logo">
   </a>
 
   <h3 align="center">Café Teórico TV - SpaceShip</h3>
@@ -77,18 +77,18 @@ I'll write here the books from where I learned the coding techniques I applied i
 ### Installation
 
 :brazil:<br>
-1. Faça o download do NetBeans e o instale. [https://netbeans.org](https://netbeans.org
+Faça o download do NetBeans e o instale. [https://netbeans.org](https://netbeans.org)<br>
 :uk:<br>
-1. Download and install NetBeans IDE. [https://netbeans.org](https://netbeans.org
+Download and install NetBeans IDE. [https://netbeans.org](https://netbeans.org)<br>
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
 :brazil:<br>
-1. Vocês podem copiar o código à vontade. Aceito críticas e sugestões de melhorias. <br>
+Vocês podem copiar o código à vontade. Aceito críticas e sugestões de melhorias. <br>
 :uk:<br>
-1. You can download the code at will. Feel free to make suggestions about the techniques. <br>
+You can download the code at will. Feel free to make suggestions about the techniques. <br>
 
 <!-- LICENSE -->
 ## License
