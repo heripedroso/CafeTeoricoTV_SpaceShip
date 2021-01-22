@@ -86,9 +86,9 @@ I'll write here the books from where I learned the coding techniques I applied i
 ## Contributing
 
 :brazil:<br>
-1. Vocês podem copiar o código à vontade. Aceito críticas e sugestões de melhorias.
+1. Vocês podem copiar o código à vontade. Aceito críticas e sugestões de melhorias. <br>
 :uk:<br>
-1. You can download the code at will. Feel free to make suggestions about the techniques.
+1. You can download the code at will. Feel free to make suggestions about the techniques. <br>
 
 <!-- LICENSE -->
 ## License
