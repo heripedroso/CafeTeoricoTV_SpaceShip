@@ -23,7 +23,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Sumário</summary>
+  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -52,25 +52,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+:brazil:<br>
+Este é um projeto que visa tornar o aprendizado de orientação a objetos um pouco mais interessante. O código está o mais simples possível e ao mesmo tempo tentei deixar as técnicas de OO evidentes.<br>
+:uk:<br>
+This is an attemptive to turn the OOP learning a bit more interesting. I tried to code in the simplest way I could, but at same time you can notice thee OOP techniques.<br>
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+:brazil:<br>
+O código está em java. Não há nada mais de extraordinário do que isso, já que a intenção não é viver de games.<br>
+:uk:<br>
+The language is Java. There is no extraordinary tools but the Java coding. You shouldn't have great expectations about the game. It's just coding. <br>
+* [Java](https://getbootstrap.com)
+* [NetBeans](https://https://netbeans.org/)
 
 
 
