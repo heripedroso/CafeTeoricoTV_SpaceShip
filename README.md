@@ -38,12 +38,9 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -53,9 +50,9 @@
 ## About The Project
 
 :brazil:<br>
-Este é um projeto que visa tornar o aprendizado de orientação a objetos um pouco mais interessante. O código está o mais simples possível e ao mesmo tempo tentei deixar as técnicas de OO evidentes.<br>
+Este é um projeto que visa tornar o aprendizado de orientação a objetos um pouco mais interessante. O código está o mais simples possível e ao mesmo tempo tentei deixar as técnicas de OO bem evidentes.<br>
 :uk:<br>
-This is an attemptive to turn the OOP learning a bit more interesting. I tried to code in the simplest way I could, but at same time you can notice thee OOP techniques.<br>
+This is an attemptive to turn the OOP learning a bit more interesting. I tried to code in the simplest way I could, but I hope you can notice the OOP techniques.<br>
 
 ### Built With
 
@@ -75,45 +72,17 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+:brazil:<br>
+Colocarei aqui as leituras das quais segui as orientaçãoes para os padrões de codificação. <br>
+:uk:<br>
+I'll write here the books from where I learned the coding techniques I applied in this project. <br>
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
+:brazil:<br>
+1. Faça o download do NetBeans e o instale. [https://netbeans.org](https://netbeans.org
+:uk:<br>
+1. Download and install NetBeans IDE. [https://netbeans.org](https://netbeans.org
 
 
 <!-- CONTRIBUTING -->
@@ -139,15 +108,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-
-
-
+Heribeto Pedroso - [linkedin](https://linkedin.com/in/heripedroso) - heri.pedroso@gmail.com <br>
+Café Teórico TV - [@cafeteorico.tv](https://instagram.com/cafeteorico.tv) - cafeteorico.tv@gmail.com <br>
+Project Link: [https://github.com/heripedroso/CafeTeoricoTV_SpaceShip](https://github.com/heripedroso/CafeTeoricoTV_SpaceShip) <br>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
