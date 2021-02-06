@@ -73,24 +73,29 @@ The language is Java. There is no extraordinary tools but the Java coding. You s
 É necessário entender como é o ESQUELETO deste projeto.
 
 As classes possuem 03 métodos principais e são dispados na respectiva ordem: 
-* recebeComando(String comando)<br>
+<p>
+* recebeComando(String comando)<br><br>
   <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
     <img src="sequencia_01.jpg" alt="Logo">
   </a>
-* executaCiclo()<br>
+  <p>
+* executaCiclo()<br><br>
   <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
     <img src="sequencia_02.jpg" alt="Logo">
   </a>
-* desenha()<br>
+  <p>
+* desenha()<br><br>
   <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
     <img src="sequencia_03.jpg" alt="Logo">
   </a>
-* tocaAudio()<br>
+    <p>
+* tocaAudio()<br><br>
   <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
     <img src="sequencia_04.jpg" alt="Logo">
   </a>
+<p>      
 
-Também foi utilizado o padrão de projeto State para implementar a classe Jogo.<br>
+Também foi utilizado o padrão de projeto State para implementar a classe Jogo.<br><br>
   <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
     <img src="estados_01.jpg" alt="Logo">
   </a>
