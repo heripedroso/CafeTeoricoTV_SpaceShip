@@ -93,7 +93,7 @@ The language is Java. There is no extraordinary tools but the Java coding. You s
   </a>
 <p>      
 
-Também foi utilizado o padrão de projeto State para implementar a classe Jogo.<br><br>
+Também foi utilizado o padrão de projeto State para implementar a classe Jogo. Para a passagem de estados eu utilizei PERGUNTAS (métodos que retornam um valor boolean).<br><br>
   <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
     <img src="estados_01.jpg" alt="Logo">
   </a>
