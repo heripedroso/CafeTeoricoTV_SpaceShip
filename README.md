@@ -35,6 +35,10 @@ The language is Java. There is no extraordinary tools but the Java coding. You s
 
 ### Prerequisites
 :brazil:<br>
+As teclas de ação estão na seguinte configuração. <br>
+<p align="center">
+    <img align="center" src="images/teclado.png" alt="Logo">
+ </p> 
 É necessário entender como é o ESQUELETO deste projeto. As classes possuem 03 métodos principais que são disparados na respectiva ordem: 
 <ol>
     <li>
