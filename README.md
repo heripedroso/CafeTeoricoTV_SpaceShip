@@ -86,9 +86,9 @@ The language is Java. There is no extraordinary tools but the Java coding. You s
 <p>      
 
 Também foi utilizado o padrão de projeto State para implementar a classe Jogo. Para a passagem de estados eu utilizei PERGUNTAS (métodos que retornam um valor boolean).<br><br>
-  <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
-    <img src="images/estados_01.jpg" alt="Logo">
-  </a>
+    <img src="images/estados_01.jpg" alt="Logo"> <br>
+Por fim achei interessante utilizar um Builder para construir as fases, pois ficamos livres para aumentar a dificuldade e outras coisinhas também. Cada fase é inserida no jogo atravês do método jogo.addFase(FaseGenerica fase) e são percorridas na ordem que são inseridas.<br><br>
+    <img src="images/builder_01.jpg" alt="Logo"> <br>
 <br>  
 :uk:<br>
 I'll write here the books from where I learned the coding techniques I applied in this project. <br>
