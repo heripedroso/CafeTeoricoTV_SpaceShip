@@ -1,5 +1,3 @@
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <h3 align="center">Café Teórico TV - SpaceShip</h3>
 
