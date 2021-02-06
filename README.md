@@ -50,7 +50,7 @@
 ## About The Project
 
 :brazil:<br>
-Este é um projeto que visa tornar o aprendizado de orientação a objetos um pouco mais interessante. O código está o mais simples possível e ao mesmo tempo tentei deixar as técnicas de OO bem evidentes.<br>
+Este é um projeto que comecei para praticar um pouco do Orientação a Objetos. Tentei implementar alguns testes automatizados mas ainda não domino bem a prática de usar Mocks.<br>
 :uk:<br>
 This is an attemptive to turn the OOP learning a bit more interesting. I tried to code in the simplest way I could, but I hope you can notice the OOP techniques.<br>
 
@@ -70,9 +70,34 @@ The language is Java. There is no extraordinary tools but the Java coding. You s
 
 ### Prerequisites
 :brazil:<br>
-Colocarei aqui as leituras das quais segui as orientaçãoes para os padrões de codificação. <br>
+É necessário entender como é o ESQUELETO deste projeto.
+
+As classes possuem 03 métodos principais e são dispados na respectiva ordem: 
+* recebeComando(String comando)<br>
+  <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
+    <img src="sequencia_01.jpg" alt="Logo">
+  </a>
+* executaCiclo()<br>
+  <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
+    <img src="sequencia_02.jpg" alt="Logo">
+  </a>
+* desenha()<br>
+  <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
+    <img src="sequencia_03.jpg" alt="Logo">
+  </a>
+* tocaAudio()<br>
+  <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
+    <img src="sequencia_04.jpg" alt="Logo">
+  </a>
+
+Também foi utilizado o padrão de projeto State para implementar a classe Jogo.<br>
+  <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
+    <img src="estados_01.jpg" alt="Logo">
+  </a>
+<br>  
 :uk:<br>
 I'll write here the books from where I learned the coding techniques I applied in this project. <br>
+
 
 ### Installation
 
