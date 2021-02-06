@@ -50,16 +50,16 @@
 ## About The Project
 
 :brazil:<br>
-Este é um projeto que comecei para praticar um pouco do Orientação a Objetos. Tentei implementar alguns testes automatizados mas ainda não domino bem a prática de usar Mocks.<br>
+Este é um projeto que comecei porque eu estava querendo praticar um pouco do Orientação a Objetos. Tentei implementar alguns testes automatizados mas ainda não domino bem a prática de usar Mocks.<br>
 :uk:<br>
 This is an attemptive to turn the OOP learning a bit more interesting. I tried to code in the simplest way I could, but I hope you can notice the OOP techniques.<br>
 
 ### Built With
 
 :brazil:<br>
-O código está em java. Não há nada mais de extraordinário do que isso, já que a intenção não é viver de games.<br>
+O código está em java e utilizei o NetBeans como IDE. Não há nada mais de extraordinário do que isso.<br>
 :uk:<br>
-The language is Java. There is no extraordinary tools but the Java coding. You shouldn't have great expectations about the game. It's just coding. <br>
+The language is Java. There is no extraordinary tools but the Java coding. You shouldn't have great expectations about the game. It's just coding. :-P <br>
 * [Java](https://getbootstrap.com)
 * [NetBeans](https://https://netbeans.org/)
 
@@ -70,9 +70,7 @@ The language is Java. There is no extraordinary tools but the Java coding. You s
 
 ### Prerequisites
 :brazil:<br>
-É necessário entender como é o ESQUELETO deste projeto.
-
-As classes possuem 03 métodos principais e são dispados na respectiva ordem: 
+É necessário entender como é o ESQUELETO deste projeto. As classes possuem 03 métodos principais que são disparados na respectiva ordem: 
 <p>
 * recebeComando(String comando)<br><br>
   <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
