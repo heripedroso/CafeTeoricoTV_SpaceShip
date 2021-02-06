@@ -107,6 +107,7 @@ Download and install NetBeans IDE. [https://netbeans.org](https://netbeans.org)<
 
 :brazil:<br>
 Vocês podem copiar o código à vontade. Aceito críticas e sugestões de melhorias. <br>
+Tem umas partes do código que podem ser melhoras (refatoradas), por exemplo a interface MovimentoGenerico. Acredito que uma classe abstrata com os métodos principais já implementados e apenas alguns métodos abstratos sejam a melhor escolha, mas no momento vou deixar como está e vou começar outro projeto. Deixo esse homework para quem quiser praticar um pouco de OOP. :-P <br>
 :uk:<br>
 You can download the code at will. Feel free to make suggestions about the techniques. <br>
 
