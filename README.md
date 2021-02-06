@@ -1,10 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/heripedroso/CafeTeoricoTV_SpaceShip">
-    <img src="images/SpaceShip.gif" alt="Logo">
-  </a>
-
   <h3 align="center">Café Teórico TV - SpaceShip</h3>
 
   <p align="center">
@@ -12,39 +8,8 @@
     :uk: Game coding for OOP learning.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Visualize o jogo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template">Visualize a implementação</a>
-    ·
   </p>
 </p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -53,6 +18,8 @@
 Este é um projeto que comecei porque eu estava querendo praticar um pouco do Orientação a Objetos. Tentei implementar alguns testes automatizados mas ainda não domino bem a prática de usar Mocks.<br>
 :uk:<br>
 This is an attemptive to turn the OOP learning a bit more interesting. I tried to code in the simplest way I could, but I hope you can notice the OOP techniques.<br>
+
+[![Vídeo de apresentação de projeto](http://img.youtube.com/vi/ZwciHye3W5A/0.jpg)](http://www.youtube.com/watch?v=ZwciHye3W5A "Vídeo de apresentação de projeto.")
 
 ### Built With
 
