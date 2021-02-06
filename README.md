@@ -71,24 +71,36 @@ The language is Java. There is no extraordinary tools but the Java coding. You s
 ### Prerequisites
 :brazil:<br>
 É necessário entender como é o ESQUELETO deste projeto. As classes possuem 03 métodos principais que são disparados na respectiva ordem: 
-<p>
-* recebeComando(String comando)<br><br>
+<ol>
+    <li>
+      recebeComando()<br>
+<p align="center">
     <img align="center" src="images/sequencia_01.jpg" alt="Logo">
-  <p>
-* executaCiclo()<br><br>
+ </p> 
+     </li> 
+  <li>
+ executaCiclo()<br>
+<p align="center">
     <img align="center" src="images/sequencia_02.jpg" alt="Logo">
-  <p>
-* desenha()<br><br>
+   </p>  
+  </li> 
+    <li>
+desenha()<br>   
+<p align="center">
     <img align="center" src="images/sequencia_03.jpg" alt="Logo">
-    <p>
-* tocaAudio()<br><br>
+   </p> 
+        </li> 
+      <li>
+tocaAudio()<br>   
+<p align="center">
     <img align="center" src="images/sequencia_04.jpg" alt="Logo">
-<p>      
+ </p> 
+        </li>   
 
 Também foi utilizado o padrão de projeto State para implementar a classe Jogo. Para a passagem de estados eu utilizei PERGUNTAS (métodos que retornam um valor boolean).<br><br>
-    <img align="center" src="images/estados_01.jpg" alt="Logo"> <br>
+    <p align="center"><img align="center" src="images/estados_01.jpg" alt="Logo">  </p> 
 Por fim achei interessante utilizar um Builder para construir as fases, pois ficamos livres para aumentar a dificuldade e outras coisinhas também. Cada fase é inserida no jogo atravês do método jogo.addFase(FaseGenerica fase) e são percorridas na ordem que são inseridas.<br><br>
-    <img align="center" src="images/builder_01.JPG" alt="Logo"> <br>
+    <p align="center"><img align="center" src="images/builder_01.JPG" alt="Logo">  </p> 
 <br>  
 :uk:<br>
 I'll write here the books from where I learned the coding techniques I applied in this project. <br>
