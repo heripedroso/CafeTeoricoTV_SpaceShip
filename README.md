@@ -17,7 +17,7 @@ Este é um projeto que comecei porque eu estava querendo praticar um pouco do Or
 :uk:<br>
 This is an attemptive to turn the OOP learning a bit more interesting. I tried to code in the simplest way I could, but I hope you can notice the OOP techniques.<br>
 
-[![Vídeo de apresentação de projeto](http://img.youtube.com/vi/ZwciHye3W5A/0.jpg)](http://www.youtube.com/watch?v=ZwciHye3W5A "Vídeo de apresentação de projeto.")
+[![Vídeo de apresentação de projeto](http://img.youtube.com/vi/ZwciHye3W5A/0.jpg)](http://www.youtube.com/watch?v=ZwciHye3W5A "Vídeo de apresentação do projeto.")
 
 ### Built With
 
